@@ -1,0 +1,9 @@
+c:\Projects\PBAssess\PBAssess\PBAssess\obj\Debug\PBAssess.csprojResolveAssemblyReference.cache
+c:\Projects\PBAssess\PBAssess\PBAssess\bin\Debug\PBAccess.exe.config
+c:\Projects\PBAssess\PBAssess\PBAssess\bin\Debug\PBAccess.exe
+c:\Projects\PBAssess\PBAssess\PBAssess\bin\Debug\PBAccess.pdb
+c:\Projects\PBAssess\PBAssess\PBAssess\obj\Debug\PBAccess.exe
+c:\Projects\PBAssess\PBAssess\PBAssess\obj\Debug\PBAccess.pdb
+C:\Projects\PBproject\PBAssess\PBAssess\bin\Debug\PBAccess.exe.config
+C:\Projects\PBproject\PBAssess\PBAssess\obj\Debug\PBAccess.exe
+C:\Projects\PBproject\PBAssess\PBAssess\obj\Debug\PBAccess.pdb
